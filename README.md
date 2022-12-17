@@ -33,5 +33,5 @@
 ## 使用方法
 
 1. 下载此仓库: `git clone --depth 1 --branch master git@github.com:lyy289065406/ark-mods.git`
-2. 每个 MOD 都有一个唯一 ID，每个 ID 对应一个同名的 文件夹 和 `*.mod` 文件，把两者复制到私服的 `ShooterGame\Content\Mods` 目录下即可使用。
+2. 每个 MOD 都有一个唯一 ID，每个 ID 对应一个同名的 文件夹 和 `*.mod` 文件，把两者复制到[私服](https://github.com/lyy289065406/ark)的 `ShooterGame\Content\Mods` 目录下即可使用。
 
