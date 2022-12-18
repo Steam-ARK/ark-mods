@@ -26,6 +26,7 @@
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2885013943) | 2885013943 | `ARK: Monster Additions!` | 生物 | 添加【怪物猎人:世界】中出现的怪物 |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=902616446) | 902616446 | `Dino Colourizer!` | 功能 | 可以给恐龙可上色以标记位置 |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=895711211) | 895711211 | `Classic Flyers` | 功能 | 恢复飞行单位可以加速度属性 |
+| [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=817096835) | 817096835 | `Extinction Core` | 功能 | 灭绝，影响世界体系，慎加。<br/>重新构筑世界平衡：<br/>1. 地图随机刷新 BOSS<br/>2. 添加新的可驯服生物（死神国王和野人均可驯服和一步一步进化至神阶段）<br/>3. 地图随机刷新 BOSS<br/>4. 新增强悍的野人王和各种野人<br/>5. 没有下线保护<br/>6. 野生龙能拆家（水底除外） |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1232362083) | 1232362083 | `Wardrobe Skins` | 外观 | 新增大量个性的服装 |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=618916953) | 618916953 | `Cute Hair (v6.1)` | 外观 | 超过 200 种发型 |
 
