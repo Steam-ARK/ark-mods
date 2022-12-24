@@ -18,7 +18,8 @@
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=849985437) | 849985437 | `HG Stacking Mod 5000-90` | 功能 | 物品叠加上限 `+5000` 负重 `-90%` |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=928102085) | 928102085 | `HG Stacking Mod 10000-90` | 功能 | 物品叠加上限 `+10000` 负重 `-90%` |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1211297684) | 1211297684 | `HG Multi Storage Box V4.9` | 建筑 | 方便的储物箱（容量更大） |
-| [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=751991809) | 751991809 | `Death Recovery Mod` | 建筑 | 墓碑：死亡后快速回收背包 |
+| [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=751991809) | 751991809 | `Death Recovery Mod (v1.13)` | 建筑 | 墓碑：死亡后快速回收背包 |
+| [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1315534671) | 1315534671 | `Automatic Death Recovery` | 功能 | 死亡后/床传送时自动恢复物品 |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991) | 731604991 | `Structures Plus (S+)` | 建筑 | 摆放辅助、重叠地基等 |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=893904615) | 893904615 | `OzoCraft 1.7` | 建筑 | 工作台：可以生产特有的建筑材料 |
 | [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=889745138) | 889745138 | `Awesome Teleporters!` | 建筑 | 传送门：可以在任何位置放置传送点 |
